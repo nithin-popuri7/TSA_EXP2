@@ -21,6 +21,8 @@ Reg.No:212221240037
 ```
 A - LINEAR TREND ESTIMATION
 ```
+## Trend equation using Linear Equation
+
 import numpy as np
 from tabulate import tabulate
 x = [2010, 2012, 2014, 2016, 2018]
@@ -87,11 +89,13 @@ plt.plot(x,l)
 
 ### OUTPUT
 A - LINEAR TREND ESTIMATION
+
 ![1](https://github.com/nithin-popuri7/TSA_EXP2/assets/94154780/539bec82-907d-49c8-b0fa-c07d5801f7cd)
 
 ![2](https://github.com/nithin-popuri7/TSA_EXP2/assets/94154780/f4b23a61-2002-4b8c-8c4d-0ac328277efb)
 
 B- POLYNOMIAL TREND ESTIMATION
+
 ![3](https://github.com/nithin-popuri7/TSA_EXP2/assets/94154780/e99860d3-b73e-4170-8357-b4625a891333)
 
 ![4](https://github.com/nithin-popuri7/TSA_EXP2/assets/94154780/df5e1c97-5072-42f7-90af-cb6569373f69)
