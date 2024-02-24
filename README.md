@@ -18,11 +18,10 @@ End the program
 Developed By: P.Siva Naga Nithin
 Reg.No:212221240037
 ```
-```
-A - LINEAR TREND ESTIMATION
-```
-## Trend equation using Linear Equation
 
+
+### A - LINEAR TREND ESTIMATION
+```
 import numpy as np
 from tabulate import tabulate
 x = [2010, 2012, 2014, 2016, 2018]
@@ -52,6 +51,7 @@ plt.plot(x,l)
 ```
 ```
 B- POLYNOMIAL TREND ESTIMATION
+```
 ```
 import numpy as np
 from tabulate import tabulate
