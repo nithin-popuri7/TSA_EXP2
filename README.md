@@ -49,9 +49,8 @@ plt.xlabel("Year")
 plt.ylabel("Production")
 plt.plot(x,l)
 ```
-```
-B- POLYNOMIAL TREND ESTIMATION
-```
+
+### B- POLYNOMIAL TREND ESTIMATION
 ```
 import numpy as np
 from tabulate import tabulate
